@@ -1,0 +1,1 @@
+A C++ university project demonstrating Object-Oriented Programming (OOP) concepts through a pizza ordering system, including inheritance, polymorphism, encapsulation, abstraction, and order management.
